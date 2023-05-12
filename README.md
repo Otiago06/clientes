@@ -1,2 +1,2 @@
-# clientes
- Cadastro de Clientes
+# Cadastro de Clientes
+ Módulo para cadastro e gerenciamento de clientes
